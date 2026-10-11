@@ -1,0 +1,10 @@
+{
+  "name": "내 자산 포트폴리오",
+  "short_name": "자산 포트폴리오",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#111827",
+  "lang": "ko",
+  "icons": []
+}
